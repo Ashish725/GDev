@@ -1,4 +1,6 @@
-# GDev is a web application that build with the purpose to connect many people in one platform so that 
+#GDev
+
+It is a web application that build with the purpose to connect many people in one platform so that 
 they can solve problems of other and ask his question to other. Gdev comes from “Guru Dev” it means teacher who teach us,
 who clear our doubt.
 Why Gdev ? 
